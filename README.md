@@ -9,7 +9,7 @@ I have also started learning Python to expand my skill set. I hold a bachelor's 
 #
 ### Programming Languages
 - JavaScript
-- **Learning:** TypeScript, Python
+- **Learning:** TypeScript, Python, Move (Aptos' language)
 
 **Skills:**
 - **Frameworks:** Node.js, Express.js, Nest.js
@@ -37,7 +37,7 @@ También he comenzado a aprender Python para expandir mis habilidades. Tengo una
 #
 ### Lenguajes de Programación
 - JavaScript
-- **Aprendiendo:** TypeScript, Python
+- **Aprendiendo:** TypeScript, Python, Move (lenguaje de Aptos)
 
 **Habilidades:**
 - **Frameworks:** Node.js, Express.js, Nest.js
