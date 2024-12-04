@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="570" src="https://j.gifs.com/KdnqJW.gif"  />
+  <img height="560" src="https://j.gifs.com/KdnqJW.gif"  />
 </div>
 
 ###
@@ -181,7 +181,7 @@
 
 ###
 <div align="center">
-  <img height="570" src="https://j.gifs.com/KdnqJW.gif"  />
+  <img height="560" src="https://j.gifs.com/KdnqJW.gif"  />
 </div>
 
 ###
