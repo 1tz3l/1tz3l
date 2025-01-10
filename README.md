@@ -1,11 +1,3 @@
-<div align="center">
-  <img height="560" src="https://j.gifs.com/KdnqJW.gif"  />
-</div>
-
-###
-
-<p align="right">Source: Watch Dogs</p>
-
 ###
 
 <p align="left"></p>
@@ -180,13 +172,16 @@
 <p align="left"></p>
 
 ###
+
+  #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Itz3l/30-nites-of-code)  
+  ![@Itz3l #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Itz3l)
+
+  
 <div align="center">
-  <img height="560" src="https://j.gifs.com/KdnqJW.gif"  />
+<h1>Español</h1>
 </div>
 
-###
-
-<p align="right">Source: Watch Dogs</p>
 
 ###
 
