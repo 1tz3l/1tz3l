@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a junior software engineer in JavaScript (Node.js) at Dalia Empower.<br>- 📚 I'm currently learning Python, HTML and CSS.<br>- ⚡ In my free time I like to learn new things and play videogames.</p>
+<p align="left">- 🔭 I’m a junior software engineer in JavaScript (Node.js) at ❁ Dalia Empower.<br>- 📚 I'm currently learning Python, HTML and CSS.<br>- ⚡ In my free time I like to learn new things and play videogames.</p>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/itzel-candelario-b768842b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/itzel-candelario-b768842b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=itzel.torres%20&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">🏆   Achievements</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 ###
 
@@ -69,7 +69,12 @@
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <p align="left">🏅 Codédex Mini Holiday Hackathon 2024 badge</p>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/126797148" />
+  <blockquote>This badge is awarded to all participants that competed in the Codédex Mini Holiday Hackathon 2024 on December 13-15th, celebrating their innovation, creativity, and dedication.
+  </blockquote>
+</div>
 
 ###
 
@@ -77,7 +82,11 @@
 
 ###
 
-<h3 align="center">🛠 Languages</h3>
+<p align="left"></p>
+
+###
+
+<h2 align="center">🛠 Languages</h2>
 
 ###
 
@@ -107,7 +116,7 @@
 
 ###
 
-<h3 align="center">🛠 Tools</h3>
+<h2 align="center">🛠 Tools</h2>
 
 ###
 
@@ -145,7 +154,7 @@
 
 ###
 
-<h3 align="center">🛠 OS</h3>
+<h2 align="center">🛠 OS</h2>
 
 ###
 
@@ -173,15 +182,17 @@
 
 ###
 
+<h2 align="center"> ⚔️ Challenges </h2>
+
   #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Itz3l/30-nites-of-code)  
   ![@Itz3l #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Itz3l)
 
-  
-<div align="center">
-<h1>Español</h1>
-</div>
+###
 
+<div align="center">
+<h2>Español</h2>
+</div>
 
 ###
 
@@ -193,7 +204,7 @@
 
 ###
 
-<p align="left">- 🔭 Ingeniera de software júnior JavaScript (Node.js) en Dalia Empower.<br>- 📚 Estoy aprendiendo Python, HTML and CSS.<br>- ⚡ En mi tiempo libre me gusta aprender cosas nuevas y jugar videojuegos.</p>
+<p align="left">- 🔭 Ingeniera de software júnior JavaScript (Node.js) en ❁ Dalia Empower.<br>- 📚 Estoy aprendiendo Python, HTML and CSS.<br>- ⚡ En mi tiempo libre me gusta aprender cosas nuevas y jugar videojuegos.</p>
 
 ###
 
@@ -221,7 +232,7 @@
 
 ###
 
-<h2 align="center">🏆   Logros</h2>
+<h2 align="center">🏆 Logros</h2>
 
 ###
 
@@ -246,7 +257,12 @@
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <p align="left">🏅 Codédex Mini Holiday Hackathon 2024 badge</p>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/126797148" />
+  <blockquote>Esta insignia se otorgó a todos los participantes que compitieron en el Codédex Mini Holiday Hackathon 2024 del 13 al 15 de diciembre, para celebrar su innovación, creatividad y dedicación.
+  </blockquote>
+</div>
 
 ###
 
@@ -254,7 +270,11 @@
 
 ###
 
-<h3 align="center">🛠 Lenguajes</h3>
+<p align="left"></p>
+
+###
+
+<h2 align="center">🛠 Lenguajes</h2>
 
 ###
 
@@ -284,7 +304,7 @@
 
 ###
 
-<h3 align="center">🛠 Herramientas</h3>
+<h2 align="center">🛠 Herramientas</h2>
 
 ###
 
@@ -322,7 +342,7 @@
 
 ###
 
-<h3 align="center">🛠 Sistemas Operativos</h3>
+<h2 align="center">🛠 Sistemas Operativos</h2>
 
 ###
 
@@ -335,6 +355,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
+
+###
+
+<h2 align="center"> ⚔️ Retos </h2>
+
+  #30NitesOfCode:
+  [¡Ve mi progreso!](https://www.codedex.io/@Itz3l/30-nites-of-code)  
+  ![@Itz3l #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Itz3l)
 
 ###
 
