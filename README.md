@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a junior software engineer in JavaScript (Node.js) at ❁ Dalia Empower.<br>- 📚 I'm currently learning Python, HTML and CSS.<br>- ⚡ In my free time I like to learn new things and play videogames.</p>
+<p align="left">- 🔭 I worked as a software engineering intern at Dalia Empower.<br>- 📚 I'm currently working on improving my Python skills for data engineering, and I recently started working with and learning routing for tool use (Groq) in AI models. <br>- ⚡ I like to expand my knowledge and soft skills by joining webinars, attending bootcamps, or exploring any available information sources.</p>
 
 ###
 
@@ -204,8 +204,7 @@
 
 ###
 
-<p align="left">- 🔭 Ingeniera de software júnior JavaScript (Node.js) en ❁ Dalia Empower.<br>- 📚 Estoy aprendiendo Python, HTML and CSS.<br>- ⚡ En mi tiempo libre me gusta aprender cosas nuevas y jugar videojuegos.</p>
-
+<p align="left">- 🔭 Trabajé como intern en ingeniería de software en Dalia Empower.<br>- 📚 Estoy mejorando mis habilidades en Python para ingenería de datos y aprendiendo más sobre el tema. Además, comencé a trabajar con el uso de "Tools" (Groq) en modelos IA. <br>- ⚡ Me gusta expandir mi conocimiento y mis habilidades blandas al participar en webinars, bootcamps o buscar cualquier otra fuente de información disponible.</p>  
 ###
 
 <p align="left"></p>
