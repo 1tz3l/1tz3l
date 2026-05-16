@@ -382,6 +382,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1tz3l/1tz3l/output/snake.svg" alt="Snake animation" />
-
 ###
